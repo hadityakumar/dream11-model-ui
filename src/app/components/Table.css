@@ -1,0 +1,18 @@
+/* Add vertical separators between columns */
+.column-separator {
+  border-right: 1px solid #333333 !important;
+}
+
+.border-left {
+  border-left: 2px solid #333333 !important;
+}
+
+/* Outer table styling for borders */
+.custom-table {
+  border-collapse: separate;
+}
+
+/* Row hover effects for better visuals */
+.ant-table-row:hover {
+  background-color: #2a2a2a !important;
+}
